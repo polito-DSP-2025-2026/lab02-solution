@@ -1,1 +1,2 @@
-# lab02-solution
+# Laboratory Activity 2 - gRPC
+
